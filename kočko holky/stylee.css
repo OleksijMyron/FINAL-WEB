@@ -72,7 +72,7 @@ nav .right-image {
 .container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 15px;
+  grid-gap: 130px;
   max-width: 100%;
 }
 .container figcaption {
